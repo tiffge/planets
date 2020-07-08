@@ -1,0 +1,2 @@
+The m flag is used for connecting a commit message to your commit for example `git commit -m "your message". 
+Be very careful when using this command because it will add all the changed files to your commit which you may not want in many cases.
